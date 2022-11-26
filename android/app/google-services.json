@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "354193312737",
+    "project_id": "pasproject-894bf",
+    "storage_bucket": "pasproject-894bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354193312737:android:8075de36cd55caf70b60a0",
+        "android_client_info": {
+          "package_name": "com.example.ostor_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354193312737-bkaiqeemtagmhp7hit3bt0e2fnc5naff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEyN-146P9tPiNaRvVq85bUGc1WUL3-aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354193312737-bkaiqeemtagmhp7hit3bt0e2fnc5naff.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354193312737-7qdfjqreepcgl913l7ki83kboq45foc8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ostorproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
