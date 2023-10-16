@@ -1,3 +1,4 @@
 # ostor_project
-
-[epub](https://github.com/name/project/releases/download/v1.0.0/book.epub)
+Project which build as assement of school in mobile programming lesson
+to managing your store stocks as purpose 
+lets see our demo app [.apk](https://github.com/zzerafah/ostor/app-release.apk)
